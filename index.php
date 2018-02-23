@@ -1,4 +1,3 @@
-<?php include("assets/contact-form.php");?>
 <!DOCTYPE html>
 <html lang="en" class="no-js">
 	<head>
