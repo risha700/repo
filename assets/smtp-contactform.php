@@ -22,7 +22,7 @@ if (array_key_exists('email', $_POST)) {
 	$mail->Host = 'smtp.gmail.com';             // Specify main and backup SMTP servers
 	$mail->SMTPAuth = true;                     // Enable SMTP authentication
 	$mail->Username = 'rscode777@gmail.com';          // SMTP username
-	$mail->Password = 'Reach777'; // SMTP password
+	$mail->Password = 'xxx'; // SMTP password
 	$mail->SMTPSecure = 'tls';                  // Enable TLS encryption, `ssl` also accepted
 	$mail->Port = 587;         
     //Use a fixed address in your own domain as the from address
